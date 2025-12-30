@@ -44,5 +44,3 @@ This is especially useful for:
 
 ---
 
-## 📂 File Structure
-
